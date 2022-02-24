@@ -63,7 +63,7 @@ function App() {
 
 
         <div className="max-temperature card">
-          <span>Temperatura Máx.</span>
+          <span>Temperatura Máxima</span>
           <h3>
             {weather['main']['temp_max']}ºC
             <i className="bi bi-arrow-up" style={{ color: 'green' }}></i>
@@ -71,7 +71,7 @@ function App() {
         </div>
 
         <div className="min-temperature card">
-          <span>Temperatura Min.</span>
+          <span>Temperatura Mínima</span>
           <h3>
             <p>{weather['main']['temp_min']}ºC</p>
             <i className="bi bi-arrow-down" style={{ color: 'red' }}></i>

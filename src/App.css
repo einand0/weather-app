@@ -19,13 +19,12 @@ body{
   width: 90vw;
   height: 90vh;
   padding: 10px 30px;
-  background-color: #F1FAEE;
   display: grid;
   grid-template-areas: "a1 a2 a3"
                        "a1 a4 a5";
   grid-template-rows: 1fr 1fr;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 1px;
+  grid-gap: 6px;
 }
 
 #img-termostato{
@@ -84,7 +83,9 @@ body{
   justify-content: center;
   align-items: center;
   font-size: 14px;
-  
+  background-color: #F1FAEE;
+  border-radius: 20px;
+  box-shadow:10px 10px 5px rgb(199, 199, 199);
 }
 
 .card > h3{
