@@ -13,3 +13,9 @@ Após o acesso ser liberado, aparecerá as informações de temperatura.
 <img src="https://i.imgur.com/vri4ylQ.png">
 
 ### Tecnologias utilizadas
+
+<div>
+<img align="center" alt="html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+<img align="center" alt="html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
+
